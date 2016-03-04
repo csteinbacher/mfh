@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cheerio": "^0.20.0",
-    "ejs": "2.3.3",
+    "ejs": "^2.3.3",
     "express": "^4.13.4",
     "request": "^2.69.0"
   },
